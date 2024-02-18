@@ -1,28 +1,29 @@
-![Contribute to Scroll](./assets/banner.png)
+!Hidden Charges in Contracts
+A Contribution on how hidden charges makes a layer 2 [Scroll] blockchain less trustworthy
 
-[![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/scroll-tech/contribute-to-scroll/badge)](https://www.gitpoap.io/gp/1057)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Scroll_ZKP?style=social)](https://twitter.com/Scroll_ZKP)
-[![Discord](https://img.shields.io/discord/984015101017346058?color=%235865F2&label=Discord&logo=discord&logoColor=%23fff)](https://discord.gg/scroll)
+The following reasons are made to support my claims  
+Opaque Fees: Eroding Trust in Layer 2 Blockchains
+The lack of transparency surrounding fees in layer 2 (L2) blockchains poses a significant challenge to their trustworthiness. Several key issues arise from hidden charges:
 
-This repository guides developers wanting to contribute to Scroll. You can start contributing today, if you need ideas on getting started check out the [issues](https://github.com/scroll-tech/contribute/issues) tab.
+Reduced Transparency and Predictability:
 
-## How to Contribute
+Unclear Cost Structure: Users grapple with uncertainty regarding the true cost of transactions, hindering effective budgeting and comparisons between different L2 solutions.
+Unexpected Fees: Hidden costs lead to frustration and a perception of being misled, damaging user trust.
+Complex Interactions and Unforeseen Charges: Integrating with various smart contracts and bridges within L2 protocols amplifies cost opacity, making accurate cost estimation nearly impossible, further eroding trust.
+Limited User Control and Choice:
 
-Thanks for your interest in contributing to Scroll. Check out the [CONTRIBUTING](https://github.com/scroll-tech/contribute/blob/main/CONTRIBUTING.md) page for a guide on how to contribute.
+Restrictive Fee Options: Inability to choose fee levels based on individual needs (urgency, budget) creates a sense of being forced into paying potentially high fees, regardless of preference.
+Limited Fee Competition: Few L2 options or centralized fee setting reduces user bargaining power, leaving them vulnerable to potentially inflated costs.
+Undermining Core Blockchain Principles:
 
-## Contributions
+Centralization Concerns: Opaque fee structures can benefit a small group of entities (e.g., validators), raising concerns about centralized control and power imbalances, deviating from the decentralized ethos of blockchain.
+Erosion of Trustless Principles: Blockchain thrives on trustlessness, eliminating reliance on centralized entities. Hidden fees contradict this principle, forcing users to trust unknown parties regarding fee structures.
+It is crucial to note:
 
-### Integrations
+Transparency Exists: Not all Ethereum L2 solutions are plagued by hidden fees. Some offer transparent cost structures with clear breakdowns of charges however exorbitant.
+Not Blockchain-Specific: This issue extends beyond L2 blockchains. Traditional financial systems often struggle with similar transparency and user control concerns regarding fees.
+Building Trust in L2 Solutions:
 
-Scroll has been integrated on the following projects:
+Choosing L2 solutions with clear cost structures, user choice, and alignment with core blockchain principles, particularly trustlessness and decentralization, can mitigate the risks associated with hidden fees, fostering a more trustworthy environment for users and developers alike.
 
-- [ethereum-lists/chains](https://github.com/ethereum-lists/chains/)
-
-## About Scroll
-
-Scroll is an open source zkEVM Layer 2 that helps scaling Ethereum. Scroll is bytecode equivalent with the EVM, which makes possible native compatibility for existing Ethereum applications. Learn more about Scroll in [the docs](https://docs.scroll.io/).
-
-## Contributors
-<a href="https://github.com/scroll-tech/contribute-to-scroll/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=scroll-tech/contribute-to-scroll" />
-</a>
+Hopefully going forward Scroll will improve on this hereby making it less intrusive for blackhats.
